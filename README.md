@@ -76,4 +76,4 @@ LinkedIn : https://www.linkedin.com/in/olivier-olivier-529229234
 
 Blog : https://fattouch.over-blog.com/
 
-Facebook : facebook.com/olivier.opron/
+Facebook : [facebook.com/olivier.opron/](https://www.facebook.com/olivier.opron/)
