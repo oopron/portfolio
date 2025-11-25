@@ -1,5 +1,4 @@
-# portfolio
-🎨 Portfolio — Olivier Opron
+# 🎨 Portfolio — Olivier Opron
 
 Graphiste · Web Designer · UX/UI Designer · Intégrateur Web
 
